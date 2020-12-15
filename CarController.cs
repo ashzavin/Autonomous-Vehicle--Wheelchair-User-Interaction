@@ -7,7 +7,7 @@ namespace UnityStandardAssets.Vehicles.Car
     {
         FrontWheelDrive,
         RearWheelDrive,
-        FourWheelDrive
+        FourWheelDrive,
     }
 
     internal enum SpeedType
